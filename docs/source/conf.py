@@ -3,7 +3,7 @@ import sys
 sys.path.insert(0, os.path.abspath('.'))
 
 # Thông tin dự án
-project = 'Handson ML3'
+project = 'MLcomplete3'
 author = 'Pham Binh'
 release = '1.0'
 
